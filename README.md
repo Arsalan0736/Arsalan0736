@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **AI integrations, ML, NLP and cloud technologies**
 - 🧠 I have a strong interest in **Cybersecurity, Web3, and App Development**
 - 💬 Ask me about **JavaScript, React, Node.js, Flutter, or anything tech-related**
-- 📫 How to reach me: **arsalanmakhajankar@gmail.com**
+- 📫 How to reach me: **makhajankararsalan54@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems using code and building cool side projects
 
 ---
