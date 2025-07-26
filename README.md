@@ -35,6 +35,14 @@
 
 ---
 
+### 📈 Contribution Graph & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalan0736&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -51,17 +59,4 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake.svg" />
-</picture>
-
-
-
----
-
 > "Code is not just syntax and logic. It's the power to build your vision into reality."
-
