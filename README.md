@@ -26,19 +26,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### ✨ Dev Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsalan0736&show_icons=true&theme=radical&hide_border=false" height="150" alt="Arsalan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan0736&layout=compact&theme=radical&hide_border=false&langs_count=8" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 📈 Contribution Graph & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalan0736&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
@@ -60,3 +51,4 @@
 ---
 
 > "Code is not just syntax and logic. It's the power to build your vision into reality."
+
