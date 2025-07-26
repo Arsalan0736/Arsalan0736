@@ -53,8 +53,9 @@
 
 ### 🐍 GitHub Activity Snake
 
-<!-- Replace yourusername with Arsalan0736 if enabled -->
-<!-- <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" /> -->
+![GitHub Snake dark](https://github.com/Arsalan0736/Arsalan0736/blob/output/snake-dark.svg?raw=true#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/Arsalan0736/Arsalan0736/blob/output/snake.svg?raw=true#gh-light-mode-only)
+
 
 ---
 
