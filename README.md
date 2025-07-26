@@ -53,8 +53,12 @@
 
 ### 🐍 GitHub Activity Snake
 
-![GitHub Snake dark](https://github.com/Arsalan0736/Arsalan0736/blob/output/snake-dark.svg?raw=true#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/Arsalan0736/Arsalan0736/blob/output/snake.svg?raw=true#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Arsalan0736/Arsalan0736/output/snake.svg" />
+</picture>
+
 
 
 ---
